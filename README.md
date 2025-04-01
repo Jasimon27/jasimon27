@@ -1,30 +1,4 @@
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            padding: 20px;
-        }
-        section {
-            margin: 20px;
-            padding: 20px;
-            background-color: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-            display: inline-block;
-        }
-        a {
-            text-decoration: none;
-            color: #333;
-        }
-    </style>
-</head>
+   </head>
 <body>
     <header>
         <h1>[Hamilton Javier Silupú Montenegro]</h1>

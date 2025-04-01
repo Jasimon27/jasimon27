@@ -1,4 +1,4 @@
-## 👋 Hola mi nombres es Hamilton Javier Silupú Montenegro 👋
+## 👋 Hola mi Nombre es Hamilton Javier Silupú Montenegro 👋
 
 <!--
 **Jasimon27/jasimon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

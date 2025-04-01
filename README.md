@@ -1,7 +1,7 @@
    </head>
 <body>
     <header>
-        <h1> Hamilton Javier Silupú Montenegro </h1>
+        <h1> |Hamilton Javier Silupú Montenegro|  </h1>
         <p>Estudiante de Ingenia de Sistemas e Informática | Chiclayo</p>
     </header>
     <section>
